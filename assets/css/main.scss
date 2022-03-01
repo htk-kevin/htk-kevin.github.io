@@ -41,6 +41,7 @@
 @import "print";
 
 
-@import "skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-
+/*
+ * @import "skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+*/
 
