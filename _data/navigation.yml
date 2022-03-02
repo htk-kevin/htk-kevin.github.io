@@ -3,16 +3,16 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Talks"
+  - title: "Studies"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Interests"
     url: /teaching/    
     
-  - title: "Publications"
+  - title: "Projects"
     url: /publications/
 
-  - title: "Portfolio"
+  - title: "Stars"
     url: /portfolio/
         
   - title: "Museum"
