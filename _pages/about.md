@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 title: "Personal Website of Researcher Wannabe"
 excerpt: "About me"
 author_profile: true
