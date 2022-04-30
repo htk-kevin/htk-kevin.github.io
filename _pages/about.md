@@ -2,10 +2,6 @@
 permalink: /about/
 title: "Personal Website of Researcher Wannabe"
 author_profile: true
-layout: single
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 
