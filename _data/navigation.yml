@@ -4,19 +4,19 @@ main:
     url: /about/
 
   - title: "Studies"
-    url: /talks/    
+    url: /studies/    
 
   - title: "Interests"
-    url: /teaching/    
+    url: /interests/    
     
   - title: "Projects"
-    url: /publications/
+    url: /projects/
 
   - title: "Stars"
-    url: /portfolio/
+    url: /stars/
         
   - title: "Museum"
-    url: /year-archive/
+    url: /museum/
     
   - title: "CV"
     url: /cv/
