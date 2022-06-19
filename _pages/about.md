@@ -1,8 +1,14 @@
 ---
 permalink: /about/
-title: "Personal Website of Researcher Wannabe"
+title: "Personal Website of (Kevin) Kim"
 author_profile: true
 ---
+
+Hello World!, 
+<!-- I'm currently serving my duty of military service as a technical research personnel. -->
+
+
+Interested in various fields in...
 
 
 Describe myself and my interests...   
