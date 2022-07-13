@@ -4,7 +4,7 @@ collection: teaching
 type: "Paper Review"
 permalink: /teaching/2014-spring-teaching-1
 venue: "NATURE ASTRONOMY"
-date: 2021-06
+date: 2021-06-00
 location: "Seoul, Republic of Korea"
 ---
 
