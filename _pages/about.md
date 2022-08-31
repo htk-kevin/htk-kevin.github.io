@@ -9,24 +9,17 @@ Hello World!
 
 I'm deeply interested in reducing the complexity that can eventually lessen the human’s effort.  
 
-My research interests are as follows but not limited in:
-#
-• Swarm Intelligence, Multi-Agent Systems, Game Theory
-#
-• Deep Learning Applications (particularly Reinforcement Learning and MARL)
-#
-• Vision based Localization, Unmanned Vehicles (UAV, UGV)
-#
-• Natural Language Processing, Word Sense Disambiguation, Embedding Techniques
+My research interests are as follows but not limited in:  
+• Swarm Intelligence, Multi-Agent Systems, Game Theory  
+• Deep Learning Applications (particularly Reinforcement Learning and MARL)  
+• Vision based Localization, Unmanned Vehicles (UAV, UGV)  
+• Natural Language Processing, Word Sense Disambiguation, Embedding Techniques  
 
-#
-Luckily!
-#
-There are still so many more things to learn!
 
-#
-Enjoy my website!
-#
+Luckily!  
+There are still so many more things to learn!  
+
+Enjoy my website!  
 Thank you. ^^
 
 <!-- 
