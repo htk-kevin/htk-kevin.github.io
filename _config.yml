@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wannabe"
+title                    : "Kevin Kim"
 title_separator          : "-"
 name                     : &name "Kevin Kim"
 description              : &description "Be the change you want to see in the world!"
@@ -83,13 +83,13 @@ analytics:
 # Site Author
 author:
   name             : "Kevin Kim"
-  avatar           : "profile.png"
-  bio              : "Be the change you want to see in the world!"
-  location         : "Republic of Korea"
+  avatar           : "profile.png" #add image in 
+  bio              : "(NOT limited in) Multi-Agent System, Reinforcement Learning, Unmanned Vehicles"
+  location         : "Seoul, Republic of Korea"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            :  # "kevink97@korea.ac.kr
+  email            :  # "kevink97@korea.ac.kr # check
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -104,7 +104,7 @@ author:
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://linkedin.com/in/hyeong-tae-kim-116a94195"
+  linkedin         : # "https://linkedin.com/in/hyeong-tae-kim-116a94195" #check
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -177,18 +177,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  #teaching:
+  #  output: true
+  #  permalink: /:collection/:path/
   publications:
-    output: true
+    output: false #true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  #portfolio:
+  #  output: true
+  #  permalink: /:collection/:path/
+  #talks:
+  #  output: true
+  #  permalink: /:collection/:path/
 
 
 # Defaults
