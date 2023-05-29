@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Hello World! <br>
+
 Hyeong Tae is a Researcher(Technical Research Personnel) in Korea Institute of Science and Technology(KIST). <br>
 
 Hyeong Tae received his M.S., B.S. in Electrical and Computer Engineering at Korea University in 2019 and 2021, respectively. Hyeong Tae has worked at Software Company for two years before he joined current job. (He is currently serving his duty of military service as a Technical Research Personnel.) <br>
