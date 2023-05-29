@@ -5,31 +5,31 @@ permalink: /publications/
 author_profile: true
 ---
 
-#Conference Papers
+# Conference Papers
 
-1. Vision-based localization 
-**Hyeong Tae Kim**, others
-IEEE Conference on 
-[Paper](https://ieeexplore.ieee.org/Xplore/home.jsp)
+**1. Vision-based localization** <br>
+**Hyeong Tae Kim**, others <br>
+IEEE Conference on <br>
+[[Paper]](https://ieeexplore.ieee.org/Xplore/home.jsp) <br>
   
-2. Drone-detection and Localization
-**Hyeong Tae Kim**, others
-IEEE Conference on 
-[Paper](https://ieeexplore.ieee.org/Xplore/home.jsp)
+2. Drone-detection and Localization <br>
+**Hyeong Tae Kim**, others <br>
+IEEE Conference on <br>
+[[Paper]](https://ieeexplore.ieee.org/Xplore/home.jsp) <br>
   
-#Journal Papers
+# Journal Papers
 
-1. Vision-based localization 
-**Hyeong Tae Kim**, others
-IEEE Conference on 
-[Paper](https://ieeexplore.ieee.org/Xplore/home.jsp)
+1. Vision-based localization <br>
+**Hyeong Tae Kim**, others <br>
+IEEE Conference on <br>
+[[Paper]](https://ieeexplore.ieee.org/Xplore/home.jsp) <br>
   
-2. Vision-based localization 
-**Hyeong Tae Kim**, others
-IEEE Conference on 
-[Paper](https://ieeexplore.ieee.org/Xplore/home.jsp)
+2. Vision-based localization <br>
+**Hyeong Tae Kim**, others <br>
+IEEE Conference on <br>
+[[Paper]](https://ieeexplore.ieee.org/Xplore/home.jsp) <br>
   
-#Patents
+# Patents
 
 1. Formation Control
 
