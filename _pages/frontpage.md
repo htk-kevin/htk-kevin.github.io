@@ -8,28 +8,31 @@ redirect_from:
   - /frontpage.html
 ---
 
-
 Hello World!
+Hyeong Tae is a Researcher(Technical Research Personnel) in Korea Institute of Science and Technology(KIST). <br>
+  
+He is currently serving his duty of military service as a Technical Research Personnel.
+Hyeong Tae is deeply interested in the research areas that can reduce the complexity of the world.
+He believes these technologies can eventually help lessen human loads.
+<br>
 <!-- I'm currently serving my duty of military service as a technical research personnel. -->
+  
+## Research Interests
 
-I'm deeply interested in reducing the complexity that can eventually lessen the human’s effort.  
+My research interests are as follows (*but not limited in*): <br>
+  
+- **Multi-Agent Systems**
+  - Swarm Intelligence
+  - Multi-Agent Reinforcement Learning (MARL), Game Theory
 
-My research interests are as follows but not limited in:  
-• Swarm Intelligence, Multi-Agent Systems, Game Theory  
-• Deep Learning Applications (particularly Reinforcement Learning and MARL)  
-• Vision based Localization, Unmanned Vehicles (UAV, UGV)  
-• Natural Language Processing, Word Sense Disambiguation, Embedding Techniques  
+- **Autonomous Robots**
+  - Vision-based Localization
+  - Unmanned Aerial Vehicles, Unmanned Ground Vehicles, etc.
 
+- **Artificial Intelligence**
+  - General Understanding of Machine Intelligence (XAI)
+  - Deep Learning Applications (e.g. Vision, NLP)
 
-Luckily!  
-There are still so many more things to learn!  
-
-Enjoy my website!  
-Thank you. ^^
-
-
-Research Interests
-
-Updates
-
-Features
+## Updates
+- Research began in KIST! [2023.03]
+- Serve my military duty as a Technical Research Personnel (*ROKA*) [2021.05]
