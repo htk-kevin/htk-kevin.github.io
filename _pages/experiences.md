@@ -22,12 +22,12 @@ author_profile: true
 - **Software Company in Korea**, Gyeonggi-do, Republic of Korea *(February 2021 - February 2023)*
     - Researcher (Technical Research Personnel, ROK Army)
     - Works: Natural Language Processing(NLP), Embedding Techniques(AI), WSD
-- **Wireless Intelligence at Network Edge Laboratory**, Seoul, Republic of Korea *(March 2019 - February 2021)*
+- **Wireless Intelligence at Network Edge Lab.**, Seoul, Republic of Korea *(March 2019 - February 2021)*
     - Research Member
-- **Wireless/Wired Inter-networking and Evaluation Laboratory**, Seoul, Republic of Korea *(May 2018 - February 2019)*
+- **Wireless/Wired Inter-networking and Evaluation Lab.**, Seoul, Republic of Korea *(May 2018 - February 2019)*
     - Research Intern (Undergraduate)
   
-  
+
 
 
 
