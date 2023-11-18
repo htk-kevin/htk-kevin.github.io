@@ -27,7 +27,7 @@ My research interests are as follows (*but not limited in*): <br>
   - Multi-Agent Reinforcement Learning (MARL), Game Theory
 
 - **Autonomous Robots**
-  - Vision-based Localization
+  - Seamless Networking, Vision-based Localization, Effective/Safe Control
   - Unmanned Aerial Vehicles, Unmanned Ground Vehicles, etc.
 
 - **Artificial Intelligence**
