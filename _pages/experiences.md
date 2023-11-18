@@ -19,7 +19,7 @@ author_profile: true
 - **Korea Institute of Science and Technology (KIST)**, Seoul, Republic of Korea *(March 2023 - Present)*
     - Researcher (Technical Research Personnel, ROK Army)
     - Works: Multi-Agent Reinforcement Learning(MAS)
-- **Software Company in Korea**, Gyeonggi-do, Republic of Korea *(February 2021 - February 2023)*
+- **TmaxOS (Software Company)**, Gyeonggi-do, Republic of Korea *(February 2021 - February 2023)*
     - Researcher (Technical Research Personnel, ROK Army)
     - Works: Natural Language Processing(NLP), Embedding Techniques(AI), WSD
 - **Wireless Intelligence at Network Edge Lab.**, Seoul, Republic of Korea *(March 2019 - February 2021)*
