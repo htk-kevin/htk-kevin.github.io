@@ -25,7 +25,7 @@ Inseop Um, Seongjoon Park, **Hyeong Tae Kim**, and Hwangnam Kim <br>
   
 5. **Energy-Efficient Topology Control for UAV Networks** <br>
 Seongjoon Park<sup>&#8224;</sup>, **Hyeong Tae Kim<sup>&#8224;</sup>**, and Hwangnam Kim ( <sup>&#8224;</sup>Equal contribution ) <br>
-*Energies, MDPI, 12.23, 4523. (2019)* [[Paper]](https://www.mdpi.com/1996-1073/12/23/4523) <br>
+*Energies, 12.23, 4523. (2019)* [[Paper]](https://www.mdpi.com/1996-1073/12/23/4523) <br>
   
 6. **Poster: RC Function Virtualization - You Can Remote Control Drone Squadrons** <br>
 Seongjoon Park, Joon Yeop Lee, Inseop Um, Changhwan Joe, **Hyeong Tae Kim**, and Hwangnam Kim <br>
