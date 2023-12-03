@@ -29,7 +29,7 @@ Seongjoon Park<sup>&#8224;</sup>, **Hyeong Tae Kim<sup>&#8224;</sup>**, and Hwan
   
 6. **Poster: RC Function Virtualization - You Can Remote Control Drone Squadrons** <br>
 Seongjoon Park, Joon Yeop Lee, Inseop Um, Changhwan Joe, **Hyeong Tae Kim**, and Hwangnam Kim <br>
-*The 20th ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2019)* [[Paper]](https://dl.acm.org/doi/10.1145/3307334.3328644) <br>
+*The 17th ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2019)* [[Paper]](https://dl.acm.org/doi/10.1145/3307334.3328644) <br>
   
 ## Domestic Conferences & Journals
 
